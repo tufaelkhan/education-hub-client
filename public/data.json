@@ -1,0 +1,125 @@
+[
+    {
+        "_id": 1,
+        "collegeName": "United States institute of Peace",
+        "image": "https://www.accurate.in/img/new/building.webp",
+        "research": true,
+        "status": "popular",
+        "number": 14,
+        "rating": 4.8,
+        "admissionDate": "2023-01-15",
+        "admissionProcess": "Online application and interview",
+        "events": ["Orientation Day", "Annual Fest", "Science Fair"],
+        "researchHistory": ["Nobel Laureates", "Breakthrough Discoveries", "Discoveries"],
+        "sportsCategory": "Athletics",
+        "eventDetails": {
+          "orientationDay": "August 25, 2023",
+          "annualFest": "November 5-7, 2023",
+          "scienceFair": "April 10-12, 2024"
+        },
+        "sportsFacility": "Volleyball courts with professional coaching and tournaments.",
+    "eventsFacility": "Well-equipped auditorium and seminar halls for business-related events."
+      },
+    {
+        "_id": 2,
+        "collegeName": "Bangladesh skill development institute",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Aleksanteri_Institute_Building_Facade_2021-06-08.jpg",
+        "research": true,
+        "status": "popular",
+        "number": 8,
+        "rating": 4.5,
+        "admissionDate": "2023-04-30",
+        "admissionProcess": "In-person application and entrance exam",
+        "events": ["Freshers' Party", "Cultural Week", "Symposium"],
+        "researchHistory": ["Nobel Laureates", "Breakthrough Discoveries", "Laureates"],
+        "sportsCategory": "Volleyball",
+        "eventDetails": {
+          "orientationDay": "September 15, 2023",
+          "annualFest": "November 5-7, 2023",
+          "scienceFair": "March 15-17, 2024"
+        },
+        "sportsFacility": "Cricket ground with turf wickets and training nets.",
+        "eventsFacility": "Large auditorium and conference rooms for conducting events."
+      },
+    {
+        "_id": 3,
+        "collegeName": "Daffodil International college",
+        "image": "https://mystudyindia.com/storage/colleges/banners/Sp2t5h_1614073881.webp",
+        "research": true,
+        "status": "popular",
+        "number": 20,
+        "rating": 4.9,
+        "admissionDate": "2023-08-15",
+        "admissionProcess": "Online application and interview",
+        "events": ["Orientation Day", "Annual Fest", "Science Fair"],
+        "researchHistory": ["Art Exhibition", "Literary Festival", "Film Week"],
+        "sportsCategory": "Cricket",
+        "eventDetails": {
+          "orientationDay": "January 25-30, 2023",
+          "annualFest": "November 5-7, 2023",
+          "scienceFair": "April 10-12, 2024"
+        },
+        "sportsFacility": "Indoor and outdoor basketball courts with seating for spectators.",
+    "eventsFacility": "Spacious art galleries and auditorium for cultural events."
+      },
+    {
+        "_id": 4,
+        "collegeName": "Chandpur Technical college",
+        "image": "https://www.regenstrief.org/wp-content/uploads/2023/01/regenstrief-institute.jpg",
+        "research": false,
+        "number": 17,
+        "rating": 4.4,
+        "admissionDate": "2023-12-15",
+        "admissionProcess": "Through a national-level entrance exam",
+        "events": ["Foundation Day", "Sports Carnival", "Tech Expo"],
+        "researchHistory": ["Nobel Laureates", "Breakthrough Discoveries"],
+        "sportsCategory": "Basketball",
+        "eventDetails": {
+          "orientationDay": "August 25-30, 2023",
+          "annualFest": "November 5-7, 2023",
+          "scienceFair": "April 8-12, 2024"
+        },
+        "sportsFacility": "Indoor and outdoor basketball courts with seating for spectators.",
+    "eventsFacility": "Spacious art galleries and auditorium for cultural events."
+      },
+    {
+        "_id": 5,
+        "collegeName": "Baburhat College",
+        "image": "https://alleninstitute.org/wp-content/uploads/2023/01/allen-institute-exterior-night-2022-DSC00867-sky-update-1920x1080-2.jpg",
+        "research": true,
+        "number": 13,
+        "rating": 4.6,
+        "admissionDate": "2023-08-15",
+        "admissionProcess": "Written test and group discussion",
+        "events": ["Orientation Day", "Annual Fest", "Science Fair"],
+        "researchHistory": ["Nobel Laureates", "Breakthrough Discoveries"],
+        "sportsCategory": "Football",
+        "eventDetails": {
+          "orientationDay": "August 25, 2023",
+          "annualFest": "November 5-7, 2023",
+          "scienceFair": "April 10-12, 2024"
+        },
+        "sportsFacility": "State-of-the-art athletic center with various sports facilities.",
+    "eventsFacility": "Spacious auditorium and multiple event halls for hosting various events."
+      },
+    {
+        "_id": 6,
+        "collegeName": "Puran Bazar Digree College",
+        "image": "https://i.ytimg.com/vi/MibIlH_sCr8/maxresdefault.jpg",
+        "research": true,
+        "number": 8,
+        "rating": 4.2,
+        "admissionDate": "2023-08-15",
+        "admissionProcess": "Personal interview and group case study",
+        "events": ["Orientation Day", "Annual Fest", "Science Fair"],
+        "researchHistory": ["Nobel Laureates", "Breakthrough Discoveries"],
+        "sportsCategory": "Athletics",
+        "eventDetails": {
+          "orientationDay": "August 25, 2023",
+          "annualFest": "November 5-7, 2023",
+          "scienceFair": "April 10-12, 2024"
+        },
+        "sportsFacility": "State-of-the-art athletic center with various sports facilities.",
+    "eventsFacility": "Spacious auditorium and multiple event halls for hosting various events."
+      }
+]
