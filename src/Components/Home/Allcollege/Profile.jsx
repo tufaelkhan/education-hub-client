@@ -6,7 +6,7 @@ const Profile = () => {
     const [profiles, setProfiles] = useState([])
 
     useEffect(()=>{
-        fetch('http://localhost:5000/profile')
+        fetch('https://education-hub-server-phi.vercel.app/profile')
         .then(res => res.json())
         .then(data => {
           setProfiles(data)

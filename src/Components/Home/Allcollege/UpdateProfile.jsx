@@ -20,7 +20,7 @@ const UpdateProfile = () => {
         console.log(updateData);
 
         //send data server
-        fetch(`http://localhost:5000/profile/${profileData._id}`,{
+        fetch(`https://education-hub-server-phi.vercel.app/profile/${profileData._id}`,{
             method: 'PUT',
             headers: {
                 'content-type': 'application/json'

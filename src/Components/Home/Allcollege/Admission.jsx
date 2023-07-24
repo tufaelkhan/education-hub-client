@@ -20,7 +20,7 @@ const Admission = () => {
         console.log(newStudent);
 
         //send data server
-        fetch('http://localhost:5000/student',{
+        fetch('https://education-hub-server-phi.vercel.app/student',{
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

@@ -6,7 +6,7 @@ const Mycollege = () => {
     const {user } = useContext(AuthContext)
     const [admissions, setAdmissions] = useState([])
 
-    const url = `http://localhost:5000/student?email=${user?.email}`
+    const url = `https://education-hub-server-phi.vercel.app/student?email=${user?.email}`
     useEffect(()=>{
         fetch(url)
         .then(res => res.json())

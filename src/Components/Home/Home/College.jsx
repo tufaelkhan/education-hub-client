@@ -5,7 +5,7 @@ const College = () => {
     const [colleges, setColleges] = useState([])
 
     useEffect(()=>{
-        fetch('http://localhost:5000/colleges')
+        fetch('https://education-hub-server-phi.vercel.app/colleges')
         .then(res => res.json())
         .then(data =>{
             const popularColleges = data.filter(item => item.status === 'popular')

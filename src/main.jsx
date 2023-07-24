@@ -35,7 +35,7 @@ const router = createBrowserRouter([
       {
         path: '/allcollege/:id',
         element: <PrivateRoute><CollegeDetails></CollegeDetails></PrivateRoute>,
-        loader: ({params}) => fetch(`http://localhost:5000/colleges/${params.id}`)
+        loader: ({params}) => fetch(`https://education-hub-server-phi.vercel.app/colleges/${params.id}`)
       },
       {
         path: '/admission',
@@ -52,7 +52,7 @@ const router = createBrowserRouter([
       {
         path: '/profile/:id',
         element: <UpdateProfile></UpdateProfile>,
-        loader: ({params}) => fetch(`http://localhost:5000/profile/${params.id}`)
+        loader: ({params}) => fetch(`https://education-hub-server-phi.vercel.app/profile/${params.id}`)
       },
       {
         path: '/login',
