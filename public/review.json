@@ -1,0 +1,62 @@
+[
+    {
+        "_id": 1,
+        "collegeName": "United States institute of Peace",
+        "image": "https://images.generated.photos/bR0WGYkaDHH6lFDFUmX8_4-2vc0MLCJcZYsDxGFBKnQ/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/OTk4MTUyLmpwZw.jpg",
+        "rating": 4.5,
+        "date": "2023-04-10",
+        "studentSay": "Oasis University has been a truly enriching experience for me. The campus is modern, with state-of-the-art facilities and a diverse student body from various cultures. The professors are knowledgeable and supportive, and they often organize networking events to connect students with industry professionals. Dubai is a vibrant city with a fast-paced lifestyle, offering endless opportunities for career growth and personal development. The university emphasizes global perspectives, which has broadened my horizons and enhanced my understanding of the world. However, the cost of living in Dubai can be high, and students should be prepared to manage their expenses wisely. Overall, Oasis University has provided me with an exceptional education and incredible memories to cherish",
+        "studentName": "mehedi khan",
+        "studentEmail": "mehedi@gmail.com"
+      },
+    {
+        "_id": 2,
+        "collegeName": "Bangladesh skill development institute",
+        "image": "https://images.generated.photos/U4Fz8YX1Qn01n5lEf29JD4i8Ahdfu6zv0qhvklI5BPU/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/Mjg4NDc3LmpwZw.jpg",
+        "rating": 4.9,
+        "date": "2023-04-28",
+        "studentSay": "Mountainview College has been a fantastic place for my college journey. The campus is nestled amidst breathtaking mountains, creating a serene and inspiring environment. The professors are incredibly supportive and approachable, and the small class sizes foster meaningful interactions with peers. Vancouver is a vibrant city, offering a blend of urban amenities and outdoor adventures. The college encourages community engagement, and there are numerous volunteering opportunities for students. The cost of living in Vancouver can be a bit high, but the overall college experience, combined with the city's beauty, makes it worthwhile.",
+        "studentName": "sazid khan",
+        "studentEmail": "sazid@gmail.com"
+      },
+    {
+        "_id": 3,
+        "collegeName": "Daffodil International college",
+        "image": "https://images.generated.photos/zXLb8Wb1iebJYhFhmTnGbMi_g7O117Lq6fZUcW5vaSY/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NzA4ODk4LmpwZw.jpg",
+        "rating": 4.7,
+        "date": "2023-07-28",
+        "studentSay": " My time at Pacific Shores University has been unforgettable. The campus is modern and well-equipped, and the professors are not only knowledgeable but also caring. They genuinely care about their students' success and well-being. The university encourages a healthy work-life balance, with opportunities for sports, clubs, and outdoor activities. Sydney is a fantastic city to live in, with stunning beaches, a vibrant nightlife, and a laid-back atmosphere. However, the cost of living in Sydney can be high, especially for international students. Despite this, the experiences and personal growth I've gained at Pacific Shores University have been worth every penny.",
+        "studentName": "polash khan",
+        "studentEmail": "polash@gmail.com"
+      },
+    {
+        "_id": 4,
+        "collegeName": "Chandpur Technical college",
+        "image": "https://images.generated.photos/jmEVeh_oGdKp1HpW5CwmL90zyzTMywg7jw8WHVBz7gc/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NjM5MzQ2LmpwZw.jpg",
+        "rating": 4.7,
+        "date": "2023-07-25",
+        "studentSay": "Harmony College has exceeded my expectations in every way. The campus is historic and picturesque, and the academic programs are rigorous and intellectually stimulating. The professors are experts in their fields and go the extra mile to support students' growth and development. The college's emphasis on research and critical thinking has been a game-changer for me. Moreover, London offers a rich cultural experience, with museums, theaters, and diverse dining options. The college community is tight-knit and supportive, making it easy to build lasting friendships. While the cost of living in London can be high, the value of education and experiences gained at Harmony College makes it worthwhile.",
+        "studentName": "Jahid khan",
+        "studentEmail": "jahid@gmail.com"
+      },
+    {
+        "_id": 5,
+        "collegeName": "Baburhat College",
+        "image": "https://images.generated.photos/voQD32s0UL9HheC7j1LXd1iCr6kiVqEThf_haEBQVSM/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NTUwOTY1LmpwZw.jpg",
+        "rating": 4.8,
+        "date": "2023-08-25",
+        "studentSay": "Azure State University has been a mixed experience for me. The campus itself is stunning, with modern facilities and beautiful green spaces. However, some of the classes can be overcrowded, making it challenging to get individual attention from professors. On the positive side, the university has strong connections with industry, providing excellent internship and job opportunities for students. The city of San Francisco offers a fantastic backdrop for college life, with numerous cultural events and attractions. Nevertheless, the cost of living in the area can be overwhelming for some students, and the housing options provided by the university are limited.",
+        "studentName": "habib khan",
+        "studentEmail": "habib@gmail.com"
+      },
+    {
+        "_id": 6,
+        "collegeName": "Puran Bazar Digree College",
+        "image": "https://images.generated.photos/zqQtNQJHrUI0tVQlGqYjZ5SUUyurvDay3gG9AqEW2nw/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/Mjk1MzAzLmpwZw.jpg",
+        "rating": 4.2,
+        "date": "2023-08-15",
+        "studentSay": "Evergreen University has been an incredible experience for me. The campus is beautiful, and the faculty is top-notch. The professors are approachable and passionate about their subjects, which creates an engaging learning environment. The diversity of the student body is exceptional, and there are numerous clubs and organizations catering to various interests. Social life on campus is vibrant, with plenty of events and activities to keep students engaged. The only downside is that the cost of living in the city can be a bit high, but the opportunities and experiences offered by Evergreen University are undoubtedly worth it.",
+        "studentName": "tufael khan",
+        "studentEmail": "tufael@gmail.com"
+      }
+]
