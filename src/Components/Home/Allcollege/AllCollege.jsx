@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
+import { Rating } from '@smastrom/react-rating'
+import '@smastrom/react-rating/style.css'
 
 const AllCollege = () => {
     const [allcolleges, setAllColleges] = useState([])
@@ -25,7 +27,11 @@ const AllCollege = () => {
                         <figure><img className='relative' src={item.image} alt="Shoes" /></figure>
                         <div className='flex justify-between absolute top-48 bg-blue-600 text-white w-full pr-5 pl-5 rounded-2xl '>
 
-                          <p className=' font-bold'>Rating {item.rating}</p>
+                          <p className=' font-bold'><Rating
+      style={{ maxWidth: 100 }}
+      value={item.rating}
+      readOnly
+    /> </p>
                           <p className='font-bold'>Research {item.number}</p>
                           </div>
                         <div className="card-body">
@@ -37,7 +43,7 @@ const AllCollege = () => {
                             <div>
                                 <p className='text-blue-600 font-bold '>College Events</p>
                                 <ul className='ml-3'>
-                                    <li>{item.events[0]}</li>
+                                    <li> {item.events[0]}</li>
                                     <li>{item.events[1]}</li>
                                     <li>{item.events[2]}</li>
                                 </ul>

@@ -1,6 +1,8 @@
 import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { AuthContext } from '../../Providers/AuthProviders';
+import { FaGraduationCap } from 'react-icons/fa';
+
 
 const NavBar = () => {
   const {user, logOut} = useContext(AuthContext)
@@ -38,7 +40,7 @@ const NavBar = () => {
        {navItem}
       </ul>
     </div>
-    <a className="btn btn-ghost text-xl uppercase">Admission Hub</a>
+    <a className="btn btn-ghost text-xl uppercase"> <span className='text-blue-500'><FaGraduationCap/></span><span className='text-blue-500'>Admission</span> <span className='text-blue-950'>Hub</span></a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 uppercase">
