@@ -19,7 +19,7 @@ const College = () => {
             <h3 className='text-blue-600 font-bold'>popular colleges</h3>
             <h3><span className='text-blue-950 font-extrabold text-2xl'>Explore Popular</span><span className='text-blue-500 font-bold'> colleges</span></h3>
 </div>
-        <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 '>
+        <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 ml-3'>
             {
                 colleges.map((item) =>  <div key={item._id} className="card w-96 bg-base-100 shadow-xl mt-10">
                 <figure><img className='relative' src={item.image} alt="Shoes" /></figure>

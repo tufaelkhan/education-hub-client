@@ -10,7 +10,7 @@ const HappyStudents = () => {
                     <h3 className='text-blue-600 font-bold'> Students Reviews</h3>
                     <h3><span className='text-blue-950 font-extrabold text-2xl'>Our Students</span><span className='text-blue-500 font-bold'> Says</span></h3>
         </div>
-                <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
+                <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 ml-3'>
                 <div className="card w-96 bg-base-100 shadow-xl my-3">
   <div className="card-body">
     <p className='text-2xl text-blue-500 font-bold'>United States institute of Peace</p>

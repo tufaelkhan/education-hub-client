@@ -9,7 +9,7 @@ const ImageGallary = () => {
 <h3 className='text-blue-600 font-bold'>Graguate Program</h3>
 <h3><span className='text-blue-950 font-extrabold text-2xl'>College Image</span><span className='text-blue-500 font-bold'> Gallary</span></h3>
 </div>
-        <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
+        <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 ml-3'>
             <Slide>
             <div className="card card-compact w-96 bg-base-100 shadow-xl">
   <figure><img src="https://png.pngtree.com/background/20230425/original/pngtree-group-of-university-students-on-graduation-day-picture-image_2469813.jpg" alt="Shoes" /></figure>

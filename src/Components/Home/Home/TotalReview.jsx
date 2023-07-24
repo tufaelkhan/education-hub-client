@@ -4,7 +4,7 @@ import { FaGraduationCap, FaSnowman, FaUniversity } from 'react-icons/fa';
 const TotalReview = () => {
     return (
         <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
-            <div className="card w-96 bg-base-100 shadow-xl border-l-[3px]">
+            <div className="card w-96 bg-base-100 shadow-xl border-l-[3px] outline-1 outline-blue-950">
   <div className="card-body">
     <div className='flex justify-between text-blue-950 font-bold'>
     <h2 className="card-title">01</h2>
