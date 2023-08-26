@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 @Server site github Link: [https://github.com/tufaelkhan/education-hub-server]
 @Client site github Link: [https://github.com/tufaelkhan/education-hub-client]
 @Live site Link: [https://education-hub-ad570.web.app]
-*https://www.canva.com/long-url => canva
+
